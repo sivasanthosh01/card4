@@ -1,0 +1,54 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	}
+.card1{
+		text-align:center;
+		margin:auto;
+		width:40%;
+		padding:20px;
+		background-color:#4ed1e6;
+		margin-top:5%;
+		
+		
+}
+.card1 img{
+	width:50%;
+	border:2px solid #0c29eb;
+	border-radius:50%;
+}
+.card3,p{
+		padding:10px;
+		margin:10px;
+}
+.card1:hover{
+		
+		background-color:#1be046;
+}
+.pink{
+		color:#fc0509;
+		font-size:50px;
+		border-radius:50%;
+		background-color:#8098bf;
+		padding:10px;
+		margin:40px;
+}
+.book{
+		
+		font-size:20px;
+		border-radius:50%;
+		color:#0335fc;
+		padding:10px;
+		margin:0px;
+		background-color:#8098bf;
+		text-align:left;
+		text-decoration-line:none;
+}
+.i{
+	padding:20px;
+	font-size:30px;
+}
+.card4{
+	color:#db0ba4;
+}
